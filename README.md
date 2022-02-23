@@ -2,7 +2,9 @@
 ## Semestre 2022-1
 
 ## Profesores
-Dr. Carlos Quintanar
+Dr. Carlos Quintanar //
+
+
 Alan Romero Pacheco
 
 ## Objetivo
