@@ -12,5 +12,5 @@ El estudiante sera capaz de entender la mínimo teoría de la mecánica cuántic
 ## Contenido del curso
 | No.        | Tema          |Código  |  Material complementario|
 | :-------------: |:-------------| :-----:| :-----|
-| 1.              | Representación de cúbits mediante la esfera de Bloch|  <ul> <li>[Notebook](/src/blochSphere.ipynb)</li></ul>   | -- | 
+| 1.              | Representación de cúbits mediante la esfera de Bloch|  <ul> <li>[Notebook](https://colab.research.google.com/drive/1-aKIRrlbw6RhE9rgcO3VLUX3jmM35ZFv?usp=sharing)</li></ul>   | -- | 
 
