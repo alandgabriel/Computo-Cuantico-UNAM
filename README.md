@@ -1,7 +1,7 @@
  # Cómputo Cuántico
 ## Semestre 2022-1
 
-//![alt text](figs/logoIA.jpg)
+#![alt text](figs/logoIA.jpg)
 
 ## Profesor
 Dr. Ulises Olivares Pinto
