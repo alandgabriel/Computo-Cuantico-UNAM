@@ -1,13 +1,12 @@
  # Cómputo Cuántico
 ## Semestre 2022-1
 
-#![alt text](figs/logoIA.jpg)
-
-## Profesor
-Dr. Ulises Olivares Pinto
+## Profesores
+Dr. Carlos Quintanar
+Alan Romero Pacheco
 
 ## Objetivo
-El estudiante analizará, comprenderá e implementará algoritmos de aprendizaje supervisado, no supervisado e implementará estos algoritmos para la resolución de problemas tecnológicos.
+El estudiante sera capaz de entender la mínimo teoría de la mecánica cuántica necesaria para poder implementar y desarrollar circuitos cuánticos dirigidos a una aplicación de preferencia del alumno. 
 
 ## Contenido del curso
 | No.        | Tema           | Conceptos |Código  |  Material complementario|
