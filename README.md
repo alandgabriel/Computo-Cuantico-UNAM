@@ -12,5 +12,5 @@ El estudiante sera capaz de entender la mínimo teoría de la mecánica cuántic
 ## Contenido del curso
 | No.        | Tema          |Código  |  Material complementario|
 | :-------------: |:-------------| :-----:| :-----|
-| 1.              | Representación de cúbits mediante la esfera de Bloch|  <ul> <li>[Notebook](https://colab.research.google.com/drive/1-aKIRrlbw6RhE9rgcO3VLUX3jmM35ZFv?usp=sharing)</li></ul>   | -- | 
+| 1.              | Representación de cúbits mediante la esfera de Bloch|  <ul> <li>[Notebook](https://colab.research.google.com/drive/1-aKIRrlbw6RhE9rgcO3VLUX3jmM35ZFv?usp=sharing)</li></ul>   | <ul> <li> [Representación de cúbits](https://qiskit.org/textbook/ch-states/representing-qubit-states.html) </li> </ul> | 
 | 2.              | Introducción a las compuertas cuánticas de un cúbit|  <ul> <li>[Notebook](https://colab.research.google.com/drive/178hc-tY96jNDUr3H2oLtHrmSoP1ioi0G?usp=sharing)</li></ul>   |  <ul><li>[Implementación de Operador de Rotación](https://pennylane.ai/qml/demos/tutorial_qubit_rotation.html)<li> [Implementación de matrices de Pauli](https://qiskit.org/textbook/ch-states/single-qubit-gates.html) <li> Prugovecki, E. (1982). Quantum mechanics in Hilbert space. Academic Press. </li> <li> Lipton, R. J., & Regan, K. W. (2014). Quantum Algorithms via Linear Algebra: A Primer. MIT Press. </li></ul>  | 
